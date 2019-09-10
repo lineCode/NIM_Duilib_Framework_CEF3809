@@ -1,5 +1,7 @@
 # NIM Duilib
 
+Unofficial edition which based on official NIM Duilib, the cef control has updated to version 3809.
+
 NIM Duilib is a UI development framework for Windows, extend some new features based on the original [Duilib](https://github.com/duilib/duilib). Integrated Google base library with threads/memory/closures. You can use this framework to develop any desktop application you want.
 
 ![GitHub](https://img.shields.io/badge/license-MIT-green.svg)
@@ -13,7 +15,7 @@ NIM Duilib is a UI development framework for Windows, extend some new features b
  - Global style support
  - DPI scaling support
  - GIF animation support
- - CEF control support（based on CEF 2623, support XP）
+ - CEF control support（based on CEF 3809, no longer support XP）
  - Touch device support（surface, wacom）
  - Abstract rendering interface (support for other rendering engines)
 
@@ -23,11 +25,7 @@ NIM Duilib is a UI development framework for Windows, extend some new features b
 
 ## Start
 
-Clone the repo into your disk.
-
-```bash
-git clone https://github.com/netease-im/NIM_Duilib_Framework
-```
+Download or clone the repo into your disk.
 
 Enter the `NIM_Duilib_Framework/samples` directory，Open `samples.sln` with Visual Studio 2013 Update 5 or higher ，press `F7` to compile all projects.
 

@@ -32,11 +32,7 @@ NIM Duilib 包含了一整套桌面软件的开发部件，与其说这是一个
 
 ## 开始
 
-克隆项目到你的磁盘中
-
-```bash
-git clone https://github.com/netease-im/NIM_Duilib_Framework
-```
+下载或克隆项目到你的磁盘中
 
 进入 `NIM_Duilib_Framework/samples` 目录，使用 Visual Studio 2013 Update 5 以上版本 IDE 打开 `samples.sln`，按下 F7 即可编译所有示例程序
 
